@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am passionate about technology and communication, so from a very young age, I began to enter the world of web development making my small projects.
+I am passionate about technology and communications. I entered the world of web development at an early age through self-learning and creating independent projects.
 
-My passion for technology, advertising communication and design led me to study the degree of Advertising and Public Relations, which gave me great knowledge to apply in my projects.
+My dedication to thrive in the fields of technology, advertising and design led me to study a degree in Advertising and Public Relations, which gave me great knowledge to apply in my projects.
 
-Due to my restless mind and my desire to become a professional in web development, I decided to become a Full Stack Web Developer. For this I studied the intensive Web Development Bootcamp at Ironhack, where I learned technologies such as ReactJS, JavaScript, Node.js, Express JS, MongoDB, HTML, CSS, Handlebars, Jasmine, Git & GitHub. 
+Due to my restless character and my desire to become a professional developer, I decided to take my education one step further. In 2020 I joined the Web Development Bootcamp at Ironhack where I learned the technologies that made me today a Full Stack Developer (ReactJS, JavaScript, Node.js, Express JS, MongoDB, HTML, CSS, Handlebars, Jasmine, Git & GitHub).
