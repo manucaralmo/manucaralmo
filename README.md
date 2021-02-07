@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/manucaralmo/manucaralmo/main/portada.png">
+<img src="https://raw.githubusercontent.com/manucaralmo/manucaralmo/main/portada-v2.png">
 
 I am passionate about technology and communications. I entered the world of web development at an early age through self-learning and creating independent projects.
 
