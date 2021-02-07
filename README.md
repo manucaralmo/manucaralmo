@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/manucaralmo/manucaralmo/main/portada.png">
+
 I am passionate about technology and communications. I entered the world of web development at an early age through self-learning and creating independent projects.
 
 My dedication to thrive in the fields of technology, advertising and design led me to study a degree in Advertising and Public Relations, which gave me great knowledge to apply in my projects.
