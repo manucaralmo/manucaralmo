@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/manucaralmo/manucaralmo/main/portada-v2.png">
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,emotion,express,git,mongodb,react,nextjs,nodejs)](https://skillicons.dev)
 <samp>
-<p>🚀  JavaScript, React, MongoDB, Express, NodeJS, HTML, CSS</p>
 <p>👀  Checkout my repositories</p>
 <p>🌍  Outside GitHub: <a href="https://www.linkedin.com/in/manuel-carrillo-almoguera/">Linkedin</a>
